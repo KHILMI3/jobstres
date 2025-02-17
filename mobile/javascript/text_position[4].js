@@ -1,1 +1,1 @@
-﻿positionForPages[4]={page:4,positions:[]};
+﻿positionForPages[4]={page:4,positions:[{word:"UJI COBA VIDEO DAN GAMBAR ",left:0.277851,top:0.075866,width:0.448179,height:0.031528}]};
